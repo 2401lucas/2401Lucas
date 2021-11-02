@@ -1,5 +1,6 @@
 ## Hey
 I'm Lucas. I really enjoy programming and am currently working on projects to reflect my abilities. I really enjoy optimizing and designing code as efficiently as possible. 
+My Discord is 2401Lucas#2401
 
 ## Experience
 I have a mostly programmed in C#, with experience in C, C++, Python, TypeScript, and Cg/HLSL(Unity's Shader Language)
