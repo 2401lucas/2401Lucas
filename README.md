@@ -6,7 +6,10 @@ My Discord is 2401Lucas#2401
 I have a mostly programmed in C#, with experience in C, C++, Python, TypeScript, and Cg/HLSL(Unity's Shader Language)
 I am experienced in both Unity and Unreal, as well as the ArduinoIDE.
 ### Work Experience
-I've also worked with a golf company on creating a prototype to pitch for an app idea in Unity, working with 2 artists and myself as the Lead Programmer.
+I've also worked with a golf company on creating a prototype to pitch for an app idea in Unity, working with 2 artists and myself as the Programmer.
+
+Currently I am working with HB Studios, based in Lunenburg, Nova Scotia as a Junior Programmer.
+
 ### Personal Projects
 My biggest project so far is my Procedural Landscape Project using unity's built in Perlin Noise. It creates completely random terrain with a seed that goes for a seemingly endless amount of time. I learned how to do Multithreading, creating Mesh in code, Writing a Shader for textures and baking Vertices and Uvs manually.   
 
