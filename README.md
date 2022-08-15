@@ -26,7 +26,7 @@ I have been working on creating a procedural planet, this includes creating a sp
 I have been heavily inspired by Inigo Quilez(IQ on shadertoy) to start experimenting with shaders. I really enjoy working with noise and plan to continue my work with shaders. For this Shader, I learned a lot about raymarching and have a new appreciation for IQ's work. I plan on continuing to my work with shaders as I find a great interest.
 
 #### Spaceship tunnel game ---
-Currently I am working on a little game based on the tunnel shader, it is being made in Unity, I have created a Vertex Tunnel shader and some Editor Tools to help design the tunnel. I plan on keeping this game small and polished, eventually releasing it on the Apple AppStore/Google Play store. This is being made in partnership with [Laurence](https://github.com/SirLorrenceS) who is working on all of the Gameplay programming. 
+Currently I am working on a little game based on the tunnel shader, it is being made in Unity, I have created a Vertex Tunnel shader and some Editor Tools to help design the tunnel. I plan on keeping this game small and polished, eventually releasing it on the Apple AppStore/Google Play store. This is being made in partnership with [Laurence](https://github.com/SirLorrence) who is working on all of the Gameplay programming. 
 
 ## My favourite games
 #### Crash Bandicoot - PS1
