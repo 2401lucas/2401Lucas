@@ -27,19 +27,3 @@ I have been heavily inspired by Inigo Quilez(IQ on shadertoy) to start experimen
 
 #### Spaceship tunnel game ---
 Currently I am working on a little game based on the tunnel shader, it is being made in Unity, I have created a Vertex Tunnel shader and some Editor Tools to help design the tunnel. I plan on keeping this game small and polished, eventually releasing it on the Apple AppStore/Google Play store. This is being made in partnership with [Laurence](https://github.com/SirLorrence) who is working on all of the Gameplay programming. 
-
-## My favourite games
-#### Crash Bandicoot - PS1
-I owe much of my interest in games to the original Crash Bandicoot on the ps1, I have countless hours playing all those levels from a very young age. After listening to [Andy Gavin talk](https://www.youtube.com/watch?v=izxXGuVL21o&ab_channel=ArsTechnica) about what went into the making of this game, I have found a profound level of respect to what it took to make. 
-
-#### Super Smash Bro's Brawl --- Wii
-This is the start to my journey in competitive games, playing many hours against my brother.
-
-#### Grand Turismo 5 -- PS3
-This was my first racing game, everything from the large collection of cars and the amazing soundtracks blew me away as a kid. This really jumpstarted my love of cars and racing games.
-
-#### Apex Legends - PC / Mobile
-I love playing apex, from the movement system, longer TTK's and competive modes, it quickly became on of my goto favorites.
-
-#### Chess - https://www.chess.com/member/2401lucas
-I have only started playing chess seriously a few months ago and it very quickly became one of my go to games. It requires much concentration and focus, feeling like a game based around problem solving, which I enjoy a lot.
