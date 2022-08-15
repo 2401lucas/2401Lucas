@@ -1,5 +1,5 @@
 ## Hey
-I'm Lucas. I am a 21 year old Software Engineer who loves learning and programming. My main interests are in writing and Optimizing code with a focus on performance, working with random numbers to create beautiful landscapes and most recently in learning about Shaders and computer graphics, both new and old!
+I'm Lucas. I am a 21 year old Software Engineer who loves learning and programming. My main interests are in writing and optimizing code with a focus on performance, working with random numbers to create beautiful landscapes and most recently in learning about Shaders and computer graphics, both new and old!
 
 My Discord is 2401Lucas#2401
 
