@@ -10,6 +10,9 @@ I have worked with Unity, Unreal and the Godot engine, as well as projects witho
 ### Work Experience
 Currently I am working with HB Studios, based in Lunenburg, Nova Scotia as a Junior Software Engineer.
 
+### Released Games
+[PGA 2k23](https://www.metacritic.com/game/playstation-5/pga-tour-2k23)
+
 ### Personal Projects
 I spend most of my weekends trying new projects, learning and occasionally sharing my work when I think it is interesting.
 
@@ -17,7 +20,7 @@ I spend most of my weekends trying new projects, learning and occasionally shari
 This was my first big project, I learned how to do, as well as the importance of Multithreading, creating Mesh in code, writing a Shader for textures, baking Vertices and Uvs manually as well as LOD optimizations as initially performance was very poor.   
 
 #### Game Engine work --- https://www.gameenginebook.com
-Recently I have picked up this book, I really enjoy learning all about how engines work and am working on designing my own engine, based on a fork of Godot with a focus on performance and being a lightweight enigne.
+Recently I have picked up this book, I really enjoy learning all about how engines work and am working on designing my own engine, based on a fork of Godot with a focus on performance and being a lightweight engine.
 
 #### Unreal Engine 5 --- Procedural Planet 
 I have been working on creating a procedural planet, this includes creating a sphere in code and applying noise to distort the sphere to more resemble a planet. I have spent time optimizing their mesh generation at on an engine level. I plan on creating a shader to add colour to the planet, which led me to my next project, learning more about Shaders.
