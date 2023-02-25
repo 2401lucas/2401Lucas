@@ -12,6 +12,7 @@ Currently I am working with HB Studios, based in Lunenburg, Nova Scotia as a Jun
 
 ### Released Games
 [PGA 2k23](https://www.metacritic.com/game/playstation-5/pga-tour-2k23)
+I worked mostly on the FTUE/Tutorial of the game, as well as the practice range. My work included using an in house UI system, maintaining, updating and adding new features to the named area's of the game as well as testing features across platforms(PC,PS4/PS5, XB1/XBX) 
 
 ### Personal Projects
 I spend most of my weekends trying new projects, learning and occasionally sharing my work when I think it is interesting.
