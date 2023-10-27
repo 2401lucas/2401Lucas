@@ -6,9 +6,6 @@ My Discord is 2401Lucas#2401
 ## Experience
 I am proficient in C, C++, GLSL & HLSL
 I have worked with Unity, Unreal and the Godot engine, as well as projects without engines.
- 
-### Work Experience
-Currently I am working with HB Studios, based in Lunenburg, Nova Scotia as a Junior Software Engineer.
 
 ### Released Games
 [PGA 2k23](https://www.metacritic.com/game/playstation-5/pga-tour-2k23)
