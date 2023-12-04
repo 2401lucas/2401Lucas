@@ -1,7 +1,7 @@
 ## Hey
-I'm Lucas. I am a 21 year old Software Engineer who loves learning and programming. My main interests are in writing and optimizing code with a focus on performance, working with random numbers to create beautiful landscapes and most recently in learning about Shaders and computer graphics, both new and old!
+I'm Lucas. I am a 22 year old Software Engineer who loves learning and programming. My main interests are in writing and optimizing code with a focus on performance, working with random numbers to create beautiful landscapes and most recently in learning about Shaders and computer graphics, both new and old!
 
-My Discord is 2401Lucas#2401
+My Discord is 2401Lucas
 
 ## Experience
 I am proficient in C, C++, GLSL & HLSL
@@ -18,3 +18,4 @@ I spend most of my weekends trying new projects, learning and occasionally shari
 This was my first big project, I learned how to do, as well as the importance of Multithreading, creating Mesh in code, writing a Shader for textures, baking Vertices and Uvs manually as well as LOD optimizations as initially performance was very poor.   
 
 #### Vulkan Renderer
+Currently working on a vulkan renderer built in cpp with glfw.
